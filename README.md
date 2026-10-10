@@ -66,8 +66,17 @@ Leaderboard information was updated manually because matches took place on exter
 - Make the platform easier to reuse across future editions.
 
 ## Screenshots
+<img width="1577" height="891" alt="Screenshot 2026-10-10 112336" src="https://github.com/user-attachments/assets/c26d7c7d-3d3d-4b8b-8e09-ed62ca337ee0" />
+<img width="1906" height="880" alt="Screenshot 2026-10-06 224936" src="https://github.com/user-attachments/assets/4c270f24-3ea9-49ed-a1fc-bc3dd3668666" />
+<img width="484" height="906" alt="Screenshot 2026-10-06 224856" src="https://github.com/user-attachments/assets/25ee3983-0249-48aa-8de5-c321d42d0802" />
+<img width="1310" height="817" alt="Screenshot 2026-10-06 224737" src="https://github.com/user-attachments/assets/0cd0f4f2-3ad9-4ee0-b6b2-1564c804314c" />
+<img width="1916" height="881" alt="Screenshot 2026-10-06 224543" src="https://github.com/user-attachments/assets/e20d35a7-03c0-45b5-9317-0bb986bd3859" />
+<img width="1621" height="913" alt="Screenshot 2026-10-10 112445" src="https://github.com/user-attachments/assets/719e7b27-842b-4989-b8c9-9f26dd80859c" />
+<img width="1621" height="911" alt="Screenshot 2026-10-10 112428" src="https://github.com/user-attachments/assets/98bc31d7-b929-4d23-9f47-fd8a7db9fb57" />
+<img width="1666" height="911" alt="Screenshot 2026-10-10 112409" src="https://github.com/user-attachments/assets/791e8836-fb8b-4b5f-84eb-b7d2d947d864" />
+<img width="1667" height="619" alt="Screenshot 2026-10-10 112354" src="https://github.com/user-attachments/assets/fb693b02-c3d5-49b0-9f0e-1cfd89e7e896" />
 
-Screenshots of the public website and admin panel will be added here, with sensitive account information redacted.
+
 
 ## Note
 
